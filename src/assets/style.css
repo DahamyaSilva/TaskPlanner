@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient( 135deg,
+    rgba(243, 15, 1, 1) 0%,
+    rgba(122, 2, 135, 1) 50%,
+    rgba(4, 0, 244, 1) 100%);
+    background-attachment: fixed;
+    overscroll-behavior: none;
+}
+
+.main-container {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 30px;
+  height: 700px;
+}
