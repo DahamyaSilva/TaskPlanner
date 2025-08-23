@@ -13,8 +13,8 @@ body {
   background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(10px);
   border-radius: 12px;
-  padding: 20px;
+  padding: 20px 20px;
   margin: 30px;
-  min-height: 900px;
-  height: auto;
+  min-height: 700px;
+  overflow: hidden;
 }
